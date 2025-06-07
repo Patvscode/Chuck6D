@@ -1,0 +1,12 @@
+# Dependency folders
+node_modules/
+venv/
+
+# Build outputs and logs
+dist/
+build/
+*.log
+
+# Editor settings
+.vscode/
+*.swp
