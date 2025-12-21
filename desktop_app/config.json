@@ -1,0 +1,16 @@
+{
+  "cart_feedrate": 1000,
+  "cart_jog_gcode": "CART_JOG X={x} Y={y} Z={z} RX={rx} RY={ry} RZ={rz} F={feedrate}",
+  "cart_step_mm": 1.0,
+  "disable_gcode": "ROBOT_DISABLE",
+  "encoder_baud": 115200,
+  "encoder_port": "",
+  "enable_gcode": "ROBOT_ENABLE",
+  "estop_gcode": "M112",
+  "home_gcode": "ROBOT_HOME",
+  "joint_feedrate": 1000,
+  "joint_jog_gcode": "JOINT_JOG J={joint} D={delta} F={feedrate}",
+  "joint_step_deg": 1.0,
+  "moonraker_url": "http://localhost:7125",
+  "rot_step_deg": 1.0
+}
